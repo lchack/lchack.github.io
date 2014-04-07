@@ -3,3 +3,4 @@ markdown: redcarpet
 highlighter: pygments
 description: "A student club at Lewis & Clark College focusing on cybersecurity and systems penetration."
 url: "http://lchack.org"
+exclude: [compass.rb, config.ru, Gemfile, Gemfile.lock, Procfile, Rakefile, README.md, sass, unicorn.rb, vendor]
