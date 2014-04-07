@@ -1,3 +1,5 @@
 name: "Lewis & Clark Hacker Club"
 markdown: redcarpet
-pygments: true
+highlighter: pygments
+description: "A student club at Lewis & Clark College focusing on cybersecurity and systems penetration."
+url: "http://lchack.org"
