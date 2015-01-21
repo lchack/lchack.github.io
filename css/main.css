@@ -61,6 +61,10 @@ a:visited { color: #205caa; }
   z-index: 1;
 }
 
+.site-title img {
+  vertical-align: middle;
+}
+
 .site-nav {
   float: right;
   line-height: 56px;

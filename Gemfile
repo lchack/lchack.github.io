@@ -1,4 +1,4 @@
-ruby "2.1.1"
+ruby "2.1.4"
 source 'https://rubygems.org'
 
 gem 'jekyll', git: 'https://github.com/jekyll/jekyll.git' #bleeding edge
