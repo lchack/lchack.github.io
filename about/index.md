@@ -3,8 +3,10 @@ layout: page
 title: About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The Lewis & Clark Hacker Club (LChack) was started in 2014 with the goal of creating a community of makers and doers.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+In the Spring semester of 2015, we started Hack Night, an opportunity for Lewis & Clark students of all backgrounds to come together and work on projects.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+As part of Hack Night, LChack is holding a Startup Competition, with a prize of $250 (max $50 per team member) to be distributed among the members of the winning team.
+
+If you want to get involved, please fill out [this form](http://goo.gl/forms/4ZavYiDd0u) and check out our [forum](http://forum.lchack.org).
