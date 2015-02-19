@@ -1,7 +1,8 @@
 ---
 title: Hack Night Meetings 1 & 2
 layout: post
-date:
+date: 2015-02-19 01:09
+
 ---
 Hello and welcome to lchack.org, the home of the Lewis & Clark Hacker Club! We've begun putting on events for the Spring 2015 semester, the first two of which have already occurred.
 
