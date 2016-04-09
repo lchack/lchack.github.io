@@ -1,5 +1,5 @@
 name: "Lewis & Clark Hacker Club"
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 description: "The team behind Hack Night and the LC Startup Competition"
 url: "http://lchack.org"
