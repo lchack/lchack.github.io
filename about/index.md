@@ -9,4 +9,4 @@ In the Spring semester of 2015, we started Hack Night, an opportunity for Lewis 
 
 As part of Hack Night, LChack is holding a Startup Competition, with a prize of $250 (max $50 per team member) to be distributed among the members of the winning team.
 
-If you want to get involved, please fill out [this form](http://goo.gl/forms/4ZavYiDd0u) and check out our [forum](http://forum.lchack.org).
+If you want to get involved, please fill out [this form](http://goo.gl/forms/4ZavYiDd0u) or get in touch with [Miles](http://milescrabill.com).
